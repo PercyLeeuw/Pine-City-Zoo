@@ -51,10 +51,10 @@ body{
 
 /*========== Main-home =========*/
 
-@media (max-width: 768px){
-#main-home{
-      margin-top: 30px;
-      }
+@media (max-width: 768px) {
+  #main {
+    margin-top: 30px !important;
+  }
 }
 /*========== tabs-bottow =========*/
 
